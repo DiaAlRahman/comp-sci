@@ -30,5 +30,3 @@ test.remove('moon');
 console.log(test.has('moon'));
 test.clear()
 console.log(test.entries)
-
-
